@@ -9,9 +9,9 @@
 This project is a part of learning Data Science. This is Data Science Project at Coursera. Dataset is also available there.
 ## Problem Statement
 
-There are 23 major and minor problems needed to investigate in the NHANES Project. All of them are given in Jupyter Notebook.
+There are 23 major and minor problems needed to investigate in the NHANES Project. All of them are given in Jupyter Notebook. Follow the given link for understanding NHANES terms
  
-
+- [NHANES-HandBook](https://wwwn.cdc.gov/Nchs/Nhanes/2015-2016/DEMO_I.htm)
 ## Support
 
 For support, email arhamrumi007@gmail.com
